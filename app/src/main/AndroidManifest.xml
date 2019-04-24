@@ -20,7 +20,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".StartActivity" />
-        <activity android:name=".DetailTariLegong"></activity>
+        <activity android:name=".DetailItem"></activity>
     </application>
 
 </manifest>
